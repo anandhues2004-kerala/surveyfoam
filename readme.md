@@ -26,7 +26,7 @@ This project is ideal for **HTML beginners** to understand form elements like:
 Preview
 ---
 
-[live](https://wwww.google.come)
+[live](https://anandhues2004-kerala.github.io/surveyfoam/)
 
 ![preview](./Screenshot%202026-02-11%20085522.png)
 ## 📂 File Structure
