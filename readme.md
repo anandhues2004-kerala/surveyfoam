@@ -25,8 +25,10 @@ This project is ideal for **HTML beginners** to understand form elements like:
 
 Preview
 ---
+
 [live](https://wwww.google.come)
-![preview](Screenshot 2026-02-11 085522.png)
+
+![preview](./Screenshot%202026-02-11%20085522.png)
 ## 📂 File Structure
 
 ```
